@@ -9,3 +9,4 @@ El sistema permite:
 - En caso de estar todas ocupadas, agregar clientes a una **cola de espera**.  
 - Liberar mesas cuando un cliente se retira, actualizar las ganancias y reasignar mesas a quienes esperan.  
 - Guardar y cargar todos los datos desde un archivo persistente (`mesas.dat`). [se crea cuando se ejecuta el código]
+- 
